@@ -28,5 +28,5 @@ A machine learning project implementing Multiple Linear Regression to predict ho
 ## 🚀 How to Run
 ```bash
 pip install pandas numpy matplotlib scikit-learn
-jupyter notebook "Untitled37 (1).ipynb"
+jupyter notebook "House Price Prediction.ipynb"
 ```
